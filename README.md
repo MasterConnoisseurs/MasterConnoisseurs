@@ -9,14 +9,14 @@ Every line of code I write is part of something thoughtfully designed — from p
 I may work solo, but my goal is to create real impact — one project at a time.
 
 <p align="left">
+  <a href="https://www.facebook.com/">
+    <img alt="facebook" title="Connect with me on Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
   <a href="https://github.com/MasterConnoisseurs?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MasterConnoisseurs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/MasterConnoisseurs?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MasterConnoisseurs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://www.facebook.com/">
-    <img alt="facebook" title="Connect with me on Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
 
