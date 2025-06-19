@@ -97,18 +97,18 @@ My goal is to create real impact.
 <table style="width:100%;">
   <tr>
     <td style="width:33%; vertical-align:top; text-align:left;">
-      <h4>**🌐 Architecture**</h4>
+      <h4>🌐 Architecture**</h4>
       ✅ Layered Architecture<br>
       ✅ Microservices Architecture<br>
       ✅ Monolithic Architecture
     </td>
     <td style="width:33%; vertical-align:top; text-align:center;">
-      <h4>**⚙️ API Protocols**</h4>
+      <h4>⚙️ API Protocols**</h4>
       ✅ REST<br>
       ✅ SOAP
     </td>
     <td style="width:34%; vertical-align:top; text-align:right;">
-      <h4>**🚀 Methodologies**</h4>
+      <h4>🚀 Methodologies**</h4>
       ✅ Scrum<br>
       ✅ Waterfall Model<br>
       ✅ Agile Development<br>
