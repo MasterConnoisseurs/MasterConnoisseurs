@@ -12,6 +12,9 @@ My goal is to create real impact.
   <a href="https://www.facebook.com/">
     <img alt="facebook" title="Connect with me on Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
+  <a href="mailto:dennis.jayvee.patricio.03@gmail.com">
+    <img alt="connect" title="Connect with me via Email" src="https://img.shields.io/badge/CONNECT-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/MasterConnoisseurs?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MasterConnoisseurs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
