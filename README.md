@@ -40,6 +40,45 @@ My goal is to create real impact.
 
 #
 
+### 🏆 Proficiency
+
+<table style="width:100%;">
+  <thead>
+    <tr>
+      <th style="width:33%; vertical-align:top; text-align:left;">
+        <h4>🌐 Architecture</h4>
+      </th>
+      <th style="width:33%; vertical-align:top; text-align:center;">
+        <h4>⚙️ API Protocols</h4>
+      </th>
+      <th style="width:34%; vertical-align:top; text-align:right;">
+        <h4>🚀 Methodologies</h4>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width:33%; vertical-align:top; text-align:left;">
+        ✅ Layered Architecture<br>
+        ✅ Microservices Architecture<br>
+        ✅ Monolithic Architecture
+      </td>
+      <td style="width:33%; vertical-align:top; text-align:center;">
+        ✅ REST<br>
+        ✅ SOAP
+      </td>
+      <td style="width:34%; vertical-align:top; text-align:right;">
+        ✅ Scrum<br>
+        ✅ Waterfall Model<br>
+        ✅ Agile Development<br>
+        ✅ Kanban
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#
+
 ### 🔥 My Core Tech Stack
 
 <p align="center">
@@ -89,45 +128,6 @@ My goal is to create real impact.
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/IIS-2173B9?style=for-the-badge&logo=iis&logoColor=white" alt="IIS" />
 </p>
-
-#
-
-### 🏆 Proficiency
-
-<table style="width:100%;">
-  <thead>
-    <tr>
-      <th style="width:33%; vertical-align:top; text-align:left;">
-        <h4>🌐 Architecture</h4>
-      </th>
-      <th style="width:33%; vertical-align:top; text-align:center;">
-        <h4>⚙️ API Protocols</h4>
-      </th>
-      <th style="width:34%; vertical-align:top; text-align:right;">
-        <h4>🚀 Methodologies</h4>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width:33%; vertical-align:top; text-align:left;">
-        ✅ Layered Architecture<br>
-        ✅ Microservices Architecture<br>
-        ✅ Monolithic Architecture
-      </td>
-      <td style="width:33%; vertical-align:top; text-align:center;">
-        ✅ REST<br>
-        ✅ SOAP
-      </td>
-      <td style="width:34%; vertical-align:top; text-align:right;">
-        ✅ Scrum<br>
-        ✅ Waterfall Model<br>
-        ✅ Agile Development<br>
-        ✅ Kanban
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
