@@ -20,6 +20,8 @@ I may work solo, but my goal is to create real impact.
   </a>
 </p>
 
+---
+
 ## 🧰 Programming Languages
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -31,6 +33,8 @@ I may work solo, but my goal is to create real impact.
 <img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" />
 <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-plain.svg" />
+
+---
 
 ## 🔥 My Core Tech Stack
 
