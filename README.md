@@ -96,29 +96,23 @@ My goal is to create real impact.
 
 <table>
   <tr>
-    <td valign="top">
-      <h4>**🌐 Architecture**</h4>
-      <ul>
-        <li>✅ **Layered Architecture**</li>
-        <li>✅ **Microservices Architecture**</li>
-        <li>✅ **Monolithic Architecture**</li>
-      </ul>
+    <td width="33%" valign="top">
+      **🌐 Architecture**<br>
+      ✅ Layered Architecture<br>
+      ✅ Microservices Architecture<br>
+      ✅ Monolithic Architecture
     </td>
-    <td valign="top">
-      <h4>**⚙️ API Protocols**</h4>
-      <ul>
-        <li>✅ **REST**</li>
-        <li>✅ **SOAP**</li>
-      </ul>
+    <td width="33%" valign="top">
+      **⚙️ API Protocols**<br>
+      ✅ REST<br>
+      ✅ SOAP
     </td>
-    <td valign="top">
-      <h4>**🚀 Methodologies**</h4>
-      <ul>
-        <li>✅ **Scrum**</li>
-        <li>✅ **Waterfall Model**</li>
-        <li>✅ **Agile Development**</li>
-        <li>✅ **Kanban**</li>
-      </ul>
+    <td width="33%" valign="top">
+      **🚀 Methodologies**<br>
+      ✅ Scrum<br>
+      ✅ Waterfall Model<br>
+      ✅ Agile Development<br>
+      ✅ Kanban
     </td>
   </tr>
 </table>
