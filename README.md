@@ -95,26 +95,38 @@ My goal is to create real impact.
 ### 🏆 Proficiency
 
 <table style="width:100%;">
-  <tr>
-    <td style="width:33%; vertical-align:top; text-align:left;">
-      <h4>🌐 Architecture**</h4>
-      ✅ Layered Architecture<br>
-      ✅ Microservices Architecture<br>
-      ✅ Monolithic Architecture
-    </td>
-    <td style="width:33%; vertical-align:top; text-align:center;">
-      <h4>⚙️ API Protocols**</h4>
-      ✅ REST<br>
-      ✅ SOAP
-    </td>
-    <td style="width:34%; vertical-align:top; text-align:right;">
-      <h4>🚀 Methodologies**</h4>
-      ✅ Scrum<br>
-      ✅ Waterfall Model<br>
-      ✅ Agile Development<br>
-      ✅ Kanban
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th style="width:33%; vertical-align:top; text-align:left;">
+        <h4>🌐 Architecture</h4>
+      </th>
+      <th style="width:33%; vertical-align:top; text-align:center;">
+        <h4>⚙️ API Protocols</h4>
+      </th>
+      <th style="width:34%; vertical-align:top; text-align:right;">
+        <h4>🚀 Methodologies</h4>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width:33%; vertical-align:top; text-align:left;">
+        ✅ Layered Architecture<br>
+        ✅ Microservices Architecture<br>
+        ✅ Monolithic Architecture
+      </td>
+      <td style="width:33%; vertical-align:top; text-align:center;">
+        ✅ REST<br>
+        ✅ SOAP
+      </td>
+      <td style="width:34%; vertical-align:top; text-align:right;">
+        ✅ Scrum<br>
+        ✅ Waterfall Model<br>
+        ✅ Agile Development<br>
+        ✅ Kanban
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
