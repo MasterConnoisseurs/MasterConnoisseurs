@@ -22,7 +22,7 @@ I may work solo, but my goal is to create real impact.
 
 ---
 
-## 🧰 Programming Languages
+### 🧰 Programming Languages
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
@@ -35,9 +35,9 @@ I may work solo, but my goal is to create real impact.
 <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-plain.svg" />
 <br />
 
----
+#
 
-## 🔥 My Core Tech Stack
+###🔥 My Core Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# .NET" />
