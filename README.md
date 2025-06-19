@@ -129,7 +129,11 @@ My goal is to create real impact.
   </tbody>
 </table>
 
-
+<div align="center">
+  <h3>My GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterConnoisseurs&show_icons=true&theme=dark" alt="MasterConnoisseurs's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterConnoisseurs&layout=compact&theme=dark" alt="MasterConnoisseurs's Top Languages" />
+</div>
 
 
 
