@@ -6,7 +6,7 @@ I’m an independent full-stack developer from the Philippines, passionate about
 
 Every line of code I write is part of something thoughtfully designed — from planning and architecture, to clean implementation and continuous improvement. I enjoy working across the stack, learning new things, and turning ideas into functional, meaningful software that makes a difference.
 
-I may work solo, but my goal is to create real impact — one project at a time.
+I may work solo, but my goal is to create real impact.
 
 <p align="left">
   <a href="https://www.facebook.com/">
