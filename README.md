@@ -94,28 +94,31 @@ My goal is to create real impact.
 
 ### 🏆 Proficiency
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      **🌐 Architecture**<br>
-      ✅ Layered Architecture<br>
-      ✅ Microservices Architecture<br>
-      ✅ Monolithic Architecture
-    </td>
-    <td width="33%" valign="top">
-      **⚙️ API Protocols**<br>
-      ✅ REST<br>
-      ✅ SOAP
-    </td>
-    <td width="33%" valign="top">
-      **🚀 Methodologies**<br>
-      ✅ Scrum<br>
-      ✅ Waterfall Model<br>
-      ✅ Agile Development<br>
-      ✅ Kanban
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        **🌐 Architecture**<br>
+        ✅ Layered Architecture<br>
+        ✅ Microservices Architecture<br>
+        ✅ Monolithic Architecture
+      </td>
+      <td width="33%" valign="top">
+        **⚙️ API Protocols**<br>
+        ✅ REST<br>
+        ✅ SOAP
+      </td>
+      <td width="33%" valign="top">
+        **🚀 Methodologies**<br>
+        ✅ Scrum<br>
+        ✅ Waterfall Model<br>
+        ✅ Agile Development<br>
+        ✅ Kanban
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
 
