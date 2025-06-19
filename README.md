@@ -92,13 +92,22 @@ My goal is to create real impact.
 
 #
 
-### 🔥 My Core Tech Stack
+### 🔥 Proficiency
 
-**1. Planning & Design**
--   ✅ **Figma** – UI/UX design & prototyping.
--   ✅ **Draw.io** – Architecture & ER diagrams, wireframing, flowcharts & system design.
--   ✅ **Confluence** – Project documentation & collaboration.
--   ✅ **Jira** – Agile project management (Scrum methodology).
+#### **🌐 Architecture**
+-   ✅ **Layered Architecture**
+-   ✅ **Microservices Architecture**
+-   ✅ **Monolithic Architecture**
+
+#### **⚙️ API Protocols**
+-   ✅ **REST**
+-   ✅ **SOAP**
+
+#### **🚀 Methodologies**
+-   ✅ **Scrum**
+-   ✅ **Waterfall Model**
+-   ✅ **Agile Development**
+-   ✅ **Kanban**
 
 ### **2. Frontend Development (Web & Mobile)**
 #### **🌐 Web App**
