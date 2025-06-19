@@ -94,26 +94,28 @@ My goal is to create real impact.
 
 ### 🏆 Proficiency
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <div style="flex: 1; text-align: left; padding-right: 10px;">
-    <h4>**🌐 Architecture**</h4>
-    ✅ Layered Architecture<br>
-    ✅ Microservices Architecture<br>
-    ✅ Monolithic Architecture
-  </div>
-  <div style="flex: 1; text-align: center; padding-left: 5px; padding-right: 5px;">
-    <h4>**⚙️ API Protocols**</h4>
-    ✅ REST<br>
-    ✅ SOAP
-  </div>
-  <div style="flex: 1; text-align: right; padding-left: 10px;">
-    <h4>**🚀 Methodologies**</h4>
-    ✅ Scrum<br>
-    ✅ Waterfall Model<br>
-    ✅ Agile Development<br>
-    ✅ Kanban
-  </div>
-</div>
+<table style="width:100%;">
+  <tr>
+    <td style="width:33%; vertical-align:top; text-align:left;">
+      <h4>**🌐 Architecture**</h4>
+      ✅ Layered Architecture<br>
+      ✅ Microservices Architecture<br>
+      ✅ Monolithic Architecture
+    </td>
+    <td style="width:33%; vertical-align:top; text-align:center;">
+      <h4>**⚙️ API Protocols**</h4>
+      ✅ REST<br>
+      ✅ SOAP
+    </td>
+    <td style="width:34%; vertical-align:top; text-align:right;">
+      <h4>**🚀 Methodologies**</h4>
+      ✅ Scrum<br>
+      ✅ Waterfall Model<br>
+      ✅ Agile Development<br>
+      ✅ Kanban
+    </td>
+  </tr>
+</table>
 
 
 
