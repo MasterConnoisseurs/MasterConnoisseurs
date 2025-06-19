@@ -132,7 +132,6 @@ My goal is to create real impact.
 ---
 
 <div align="center">
-  <h3>📊 Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=MasterConnoisseurs&show_icons=true&theme=dark" alt="MasterConnoisseurs's GitHub Stats" />
 </div>
 
