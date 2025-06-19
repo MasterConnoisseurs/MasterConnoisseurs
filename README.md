@@ -64,6 +64,7 @@ My goal is to create real impact.
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Winforms-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="Winforms" />
   <img src="https://img.shields.io/badge/OAuth-FB5434?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" />
   <img src="https://img.shields.io/badge/XUnit-811C70?style=for-the-badge&logo=dotnet&logoColor=white" alt="Xunit" />
   <br />
@@ -91,9 +92,9 @@ My goal is to create real impact.
 
 #
 
-### 🛠️ Detailed Toolset & Proficiency
+### 🔥 My Core Tech Stack
 
-### **1. Planning & Design**
+**1. Planning & Design**
 -   ✅ **Figma** – UI/UX design & prototyping.
 -   ✅ **Draw.io** – Architecture & ER diagrams, wireframing, flowcharts & system design.
 -   ✅ **Confluence** – Project documentation & collaboration.
