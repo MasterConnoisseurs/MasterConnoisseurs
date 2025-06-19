@@ -128,8 +128,7 @@ My goal is to create real impact.
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/IIS-2173B9?style=for-the-badge&logo=iis&logoColor=white" alt="IIS" />
 </p>
-
----
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MasterConnoisseurs&show_icons=true&theme=dark" alt="MasterConnoisseurs's GitHub Stats" />
