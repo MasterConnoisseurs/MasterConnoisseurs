@@ -37,7 +37,7 @@ I may work solo, but my goal is to create real impact.
 
 #
 
-###🔥 My Core Tech Stack
+### 🔥 My Core Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# .NET" />
