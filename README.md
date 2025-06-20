@@ -8,12 +8,21 @@ Every line of code I write is part of something thoughtfully designed — from p
 
 My goal is to create real impact.
 
+> 🏫 Tehchnological University of the Philippines (Manila) : 2015-2019 `Bachelor of Science in Information System`
+> 📁 Adelko Printing House : Jun 2019 `Software Developer`
+> 📁 Sykes Asia : Jun 2021 `Software Engineer`
+> 📁 Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`
+> 📁 Ascendtion Inc : May 2023 (PRESENT) `C#.NET Software Engineer`
+
 <p align="left">
   <a href="https://www.facebook.com/">
     <img alt="facebook" title="Connect with me on Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="mailto:dennis.jayvee.patricio.03@gmail.com">
     <img alt="connect" title="Connect with me via Email" src="https://img.shields.io/badge/CONNECT-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+639123456789">
+    <img alt="phone" title="Call me" src="https://img.shields.io/badge/Phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
   <a href="https://github.com/MasterConnoisseurs?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MasterConnoisseurs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -132,28 +141,4 @@ My goal is to create real impact.
   <img src="https://img.shields.io/badge/IIS-2173B9?style=for-the-badge&logo=iis&logoColor=white" alt="IIS" />
 </p>
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterConnoisseurs&show_icons=true&theme=dark" alt="MasterConnoisseurs's GitHub Stats" />
-</div>
-
----
-
-### 💻 Project Portfolio
-
-Here are some highlights from my public projects. Click on the project title to visit its GitHub repository!
-
----
-
-#### [Project Title One](https://github.com/yourusername/repo-name-for-project1)
-[![Project One Screenshot](path/to/your/image1.png)](https://github.com/yourusername/repo-name-for-project1)
-A brief description of Project One, highlighting its purpose or key features.
-
----
-
-#### [Project Title Two](https://github.com/yourusername/repo-name-for-project2)
-[![Project Two Screenshot](path/to/your/image2.png)](https://github.com/yourusername/repo-name-for-project2)
-A brief description of Project Two, highlighting its purpose or key features.
-
----
 
