@@ -141,17 +141,19 @@ My goal is to create real impact.
 
 ### 💻 Project Portfolio
 
-[![Turbo C - 2015](https://ytcards.demolab.com/?id=YMxTTTBZhYM&title=i%27m+sorry+nixOS%2C+i%27ve+failed+you.+maybe+next+time.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "i'm sorry nixOS, i've failed you. maybe next time.")](https://www.youtube.com/watch?v=YMxTTTBZhYM)
+Here are some highlights from my public projects. Click on the project title to visit its GitHub repository!
 
+---
 
+#### [Project Title One](https://github.com/yourusername/repo-name-for-project1)
+[![Project One Screenshot](path/to/your/image1.png)](https://github.com/yourusername/repo-name-for-project1)
+A brief description of Project One, highlighting its purpose or key features.
 
-[![This Is Programmer Heaven! // What It’s Like Inside Micro Center in Silicon Valley](https://ytcards.demolab.com/?id=eQMge4nIfbg&title=This+Is+Programmer+Heaven%21+%2F%2F+What+It%E2%80%99s+Like+Inside+Micro+Center+in+Silicon+Valley&lang=en&timestamp=1749744375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630 "This Is Programmer Heaven! // What It’s Like Inside Micro Center in Silicon Valley")](https://www.youtube.com/watch?v=eQMge4nIfbg)
-[![My AI Skeptic Friends Are All Nuts](https://ytcards.demolab.com/?id=Iz3vFUTSRuc&title=My+AI+Skeptic+Friends+Are+All+Nuts&lang=en&timestamp=1749133200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3544 "My AI Skeptic Friends Are All Nuts")](https://www.youtube.com/watch?v=Iz3vFUTSRuc)
-[![My Favorite Way to Learn a New Codebase](https://ytcards.demolab.com/?id=jqHXJ3O7WGw&title=My+Favorite+Way+to+Learn+a+New+Codebase&lang=en&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "My Favorite Way to Learn a New Codebase")](https://www.youtube.com/watch?v=jqHXJ3O7WGw)
-[![My Trip to Silicon Valley](https://ytcards.demolab.com/?id=6sgcrQGP3iA&title=My+Trip+to+Silicon+Valley&lang=en&timestamp=1748902520&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79 "My Trip to Silicon Valley")](https://www.youtube.com/watch?v=6sgcrQGP3iA)
-[![Coding with Claude 4 is actually insane](https://ytcards.demolab.com/?id=lhjGDKqutB0&title=Coding+with+Claude+4+is+actually+insane&lang=en&timestamp=1748105710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1187 "Coding with Claude 4 is actually insane")](https://www.youtube.com/watch?v=lhjGDKqutB0)
+---
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+#### [Project Title Two](https://github.com/yourusername/repo-name-for-project2)
+[![Project Two Screenshot](path/to/your/image2.png)](https://github.com/yourusername/repo-name-for-project2)
+A brief description of Project Two, highlighting its purpose or key features.
 
-#
+---
 
