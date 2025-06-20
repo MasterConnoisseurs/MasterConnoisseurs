@@ -10,13 +10,13 @@ My goal is to create real impact.
 
 > 🏫 Tehchnological University of the Philippines (Manila) : 2015-2019 `Bachelor of Science in Information System`
 <br />
-> 📁 Adelko Printing House : Jun 2019 `Software Developer`
+> 📁 [Adelko Printing House](https://www.adelko.com/) : Jun 2019 `Software Developer`
 <br />
->  Sykes Asia : Jun 2021 `Software Engineer`
+> 📁 [Sykes Asia](https://www.sykes.com/) : Jun 2021 `Software Engineer`
 <br />
->  Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`
+> 📁 [Ernst & Young - EY GDS](https://www.ey.com/en_ph/gds) : Jan 2023 `IAM - JAVA Developer`
 <br />
->  Ascendtion Inc : May 2023 (PRESENT) `C#.NET Software Engineer`
+> 📁 [Ascendtion Inc](https://www.ascendtion.com/) : May 2023 (PRESENT) `C#.NET Software Engineer`
 <br />
 <br />
 
