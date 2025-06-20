@@ -12,8 +12,9 @@ My goal is to create real impact.
 
 <br />
 <p>
-  > 📁 Adelko Printing House : Jun 2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Developer</span>
+  
 </p>
+> 📁 Adelko Printing House : Jun 2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Developer</span>
 <br />
 <p>
   > 📁 Sykes Asia : Jun 2021 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Engineer</span>
