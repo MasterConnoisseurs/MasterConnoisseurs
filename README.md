@@ -8,9 +8,8 @@ Every line of code I write is part of something thoughtfully designed — from p
 
 My goal is to create real impact.
 
-<p>
-  > 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Bachelor of Science in Information System</span>
-</p>
+> 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Bachelor of Science in Information System</span>
+
 <br />
 <p>
   > 📁 Adelko Printing House : Jun 2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Developer</span>
