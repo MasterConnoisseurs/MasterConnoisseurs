@@ -9,27 +9,12 @@ Every line of code I write is part of something thoughtfully designed — from p
 My goal is to create real impact.
 
 
-> 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 Bachelor of Science in Information System<br />
-> 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 Bachelor of Science in Information System
-<br />
-<p>
-  
-</p>
-> 📁 Adelko Printing House : Jun 2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Developer</span>
-<br />
-<p>
-  > 📁 Sykes Asia : Jun 2021 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Engineer</span>
-</p>
-<br />
-<p>
-  > 📁 Ernst & Young - EY GDS : Jan 2023 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">IAM - JAVA Developer</span>
-</p>
-<br />
-<p>
-  > 📁 Ascendtion Inc : May 2023 (PRESENT) <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">C#.NET Software Engineer</span>
-</p>
-<br />
-<br />
+
+> 🏫 Tehchnological University of the Philippines (Manila) : 2015-2019 `Bachelor of Science in Information System`<br />
+> 📁 Adelko Printing House : Jun 2019 `Software Developer`<br />
+> 📁 Sykes Asia : Jun 2021 `Software Engineer`<br />
+> 📁 Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`<br />
+> 📁 Ascendtion Inc : May 2023 (PRESENT) `C#.NET Software Engineer`<br />
 
 <p align="left">
   <a href="https://www.facebook.com/">
