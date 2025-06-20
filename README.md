@@ -141,27 +141,10 @@ My goal is to create real impact.
 
 ### 💻 Project Portfolio
 
----
+[![Turbo C - 2015](https://ytcards.demolab.com/?id=YMxTTTBZhYM&title=i%27m+sorry+nixOS%2C+i%27ve+failed+you.+maybe+next+time.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "i'm sorry nixOS, i've failed you. maybe next time.")](https://www.youtube.com/watch?v=YMxTTTBZhYM)
 
-Here are some highlights from my public projects. Click on an image to visit its GitHub repository!
 
-#### Project Title One
-A brief description of Project One, highlighting its purpose or key features.
 
-[![Project One Screenshot](path/to/your/image1.png)](https://github.com/yourusername/repo-name-for-project1)
-
----
-
-#### Project Title Two
-A brief description of Project Two, highlighting its purpose or key features.
-
-[![Project Two Screenshot](path/to/your/image2.png)](https://github.com/yourusername/repo-name-for-project2)
-
----
-
-### 💻 Project Portfolio
-
-[![i'm sorry nixOS, i've failed you. maybe next time.](https://ytcards.demolab.com/?id=YMxTTTBZhYM&title=i%27m+sorry+nixOS%2C+i%27ve+failed+you.+maybe+next+time.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "i'm sorry nixOS, i've failed you. maybe next time.")](https://www.youtube.com/watch?v=YMxTTTBZhYM)
 [![This Is Programmer Heaven! // What It’s Like Inside Micro Center in Silicon Valley](https://ytcards.demolab.com/?id=eQMge4nIfbg&title=This+Is+Programmer+Heaven%21+%2F%2F+What+It%E2%80%99s+Like+Inside+Micro+Center+in+Silicon+Valley&lang=en&timestamp=1749744375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630 "This Is Programmer Heaven! // What It’s Like Inside Micro Center in Silicon Valley")](https://www.youtube.com/watch?v=eQMge4nIfbg)
 [![My AI Skeptic Friends Are All Nuts](https://ytcards.demolab.com/?id=Iz3vFUTSRuc&title=My+AI+Skeptic+Friends+Are+All+Nuts&lang=en&timestamp=1749133200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3544 "My AI Skeptic Friends Are All Nuts")](https://www.youtube.com/watch?v=Iz3vFUTSRuc)
 [![My Favorite Way to Learn a New Codebase](https://ytcards.demolab.com/?id=jqHXJ3O7WGw&title=My+Favorite+Way+to+Learn+a+New+Codebase&lang=en&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "My Favorite Way to Learn a New Codebase")](https://www.youtube.com/watch?v=jqHXJ3O7WGw)
