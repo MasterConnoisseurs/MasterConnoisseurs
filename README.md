@@ -13,6 +13,7 @@ My goal is to create real impact.
 > 📁 Sykes Asia : Jun 2021 `Software Engineer`<br />
 > 📁 Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`<br />
 > 📁 Ascendtion Inc : May 2023 (PRESENT) `C#.NET Software Engineer`<br />
+<br />
 
 <p align="left">
   <a href="https://www.facebook.com/">
