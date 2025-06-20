@@ -9,7 +9,7 @@ Every line of code I write is part of something thoughtfully designed — from p
 My goal is to create real impact.
 
 
-> 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 Bachelor of Science in Information System
+> 🏫 Graduated at : Tehchnological University of the Philippines (Manila): 2015-2019 Bachelor of Science in Information System
 2015 > 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 Bachelor of Science in Information System
 > 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 Bachelor of Science in Information System
 > 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 Bachelor of Science in Information System
