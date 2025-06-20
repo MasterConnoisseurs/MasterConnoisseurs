@@ -8,15 +8,25 @@ Every line of code I write is part of something thoughtfully designed — from p
 
 My goal is to create real impact.
 
-> 🏫 Tehchnological University of the Philippines (Manila) : 2015-2019 `Bachelor of Science in Information System`
+<p>
+  > 🏫 Tehchnological University of the Philippines (Manila): 2015-2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Bachelor of Science in Information System</span>
+</p>
 <br />
-> 📁 [Adelko Printing House](https://www.adelko.com/) : Jun 2019 `Software Developer`
+<p>
+  > 📁 Adelko Printing House : Jun 2019 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Developer</span>
+</p>
 <br />
-> 📁 [Sykes Asia](https://www.sykes.com/) : Jun 2021 `Software Engineer`
+<p>
+  > 📁 Sykes Asia : Jun 2021 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">Software Engineer</span>
+</p>
 <br />
-> 📁 [Ernst & Young - EY GDS](https://www.ey.com/en_ph/gds) : Jan 2023 `IAM - JAVA Developer`
+<p>
+  > 📁 Ernst & Young - EY GDS : Jan 2023 <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">IAM - JAVA Developer</span>
+</p>
 <br />
-> 📁 [Ascendtion Inc](https://www.ascendtion.com/) : May 2023 (PRESENT) `C#.NET Software Engineer`
+<p>
+  > 📁 Ascendtion Inc : May 2023 (PRESENT) <span style="background-color: #333; padding: 4px 8px; border-radius: 5px;">C#.NET Software Engineer</span>
+</p>
 <br />
 <br />
 
