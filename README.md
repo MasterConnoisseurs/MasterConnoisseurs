@@ -9,6 +9,7 @@ Every line of code I write is part of something thoughtfully designed — from p
 My goal is to create real impact.
 
 > 🏫 Tehchnological University of the Philippines (Manila) : 2015-2019 `Bachelor of Science in Information System`
+<br />
 > 📁 Adelko Printing House : Jun 2019 `Software Developer`
 <br />
 > 📁 Sykes Asia : Jun 2021 `Software Engineer`
@@ -16,6 +17,7 @@ My goal is to create real impact.
 > 📁 Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`
 <br />
 > 📁 Ascendtion Inc : May 2023 (PRESENT) `C#.NET Software Engineer`
+<br />
 <br />
 
 <p align="left">
