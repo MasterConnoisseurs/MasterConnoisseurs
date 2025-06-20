@@ -137,6 +137,28 @@ My goal is to create real impact.
   <img src="https://github-readme-stats.vercel.app/api?username=MasterConnoisseurs&show_icons=true&theme=dark" alt="MasterConnoisseurs's GitHub Stats" />
 </div>
 
+---
+
+### 💻 Project Portfolio
+
+---
+
+Here are some highlights from my public projects. Click on an image to visit its GitHub repository!
+
+#### Project Title One
+A brief description of Project One, highlighting its purpose or key features.
+
+[![Project One Screenshot](path/to/your/image1.png)](https://github.com/yourusername/repo-name-for-project1)
+
+---
+
+#### Project Title Two
+A brief description of Project Two, highlighting its purpose or key features.
+
+[![Project Two Screenshot](path/to/your/image2.png)](https://github.com/yourusername/repo-name-for-project2)
+
+---
+
 ### 💻 Project Portfolio
 
 [![i'm sorry nixOS, i've failed you. maybe next time.](https://ytcards.demolab.com/?id=YMxTTTBZhYM&title=i%27m+sorry+nixOS%2C+i%27ve+failed+you.+maybe+next+time.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "i'm sorry nixOS, i've failed you. maybe next time.")](https://www.youtube.com/watch?v=YMxTTTBZhYM)
