@@ -12,7 +12,7 @@ My goal is to create real impact.
 > 💼 Adelko Printing House : Jun 2019 `Software Developer`<br />
 > 💼 Sykes Asia : Jun 2021 `Software Engineer`<br />
 > 💼 Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`<br />
-> 💼 Ascendtion Inc : May 2023 (PRESENT) `C#.NET Software Engineer`<br />
+> 💼 Ascendion Inc : May 2023 (PRESENT) `C#.NET Software Engineer`<br />
 <br />
 
 <p align="left">
