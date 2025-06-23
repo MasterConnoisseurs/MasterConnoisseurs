@@ -11,7 +11,7 @@ Profile History
 
 > 🏫 Tehchnological University of the Philippines (Manila) : 2015-2019 `Bachelor of Science in Information System`<br />
 > 💼 Adelko Printing House : Jun 2019 `Software Developer`<br />
-> 💼 Sykes Asia : Jun 2021 `Software Engineer`<br />
+> 💼 Sykes Asia : Jun 2021 `Associate Software Engineer`<br />
 > 💼 Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`<br />
 > 💼 Ascendion Inc : May 2023 (PRESENT) `Software Engineer`<br />
 <br />
