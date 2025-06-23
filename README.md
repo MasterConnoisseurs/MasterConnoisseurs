@@ -6,7 +6,8 @@ I’m an indie full-stack developer from the Philippines, passionate about build
 
 Every line of code I write is part of something thoughtfully designed — from planning and architecture, to clean implementation and continuous improvement. I enjoy working across the stack, learning new things, and turning ideas into functional, meaningful software that makes a difference.
 
-My goal is to create real impact.
+
+Profile History
 
 > 🏫 Tehchnological University of the Philippines (Manila) : 2015-2019 `Bachelor of Science in Information System`<br />
 > 💼 Adelko Printing House : Jun 2019 `Software Developer`<br />
