@@ -2,7 +2,7 @@
 
 **`Software Artisan (Code. Ride. Play.)`**
 
-I’m an indie full-stack developer from the Philippines, passionate about building digital solutions that solve real-world problems. Whether it’s a tool that makes everyday tasks easier or a system that improves how people work and connect, I approach each project with purpose and creativity.
+I’m an full-stack developer from the Philippines, passionate about building digital solutions that solve real-world problems. Whether it’s a tool that makes everyday tasks easier or a system that improves how people work and connect, I approach each project with purpose and creativity.
 
 Every line of code I write is part of something thoughtfully designed — from planning and architecture, to clean implementation and continuous improvement. I enjoy working across the stack, learning new things, and turning ideas into functional, meaningful software that makes a difference.
 
